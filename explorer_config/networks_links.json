@@ -1,0 +1,9 @@
+[
+    {
+        "title": "U2U Nebulas Testnet",
+        "url": "https://testnet.u2uscan.xyz/",
+        "group": "Testnets",
+        "isActive": true,
+        "icon": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/public_assets/u2u_logo_colored_32x32.svg"
+    }
+]
