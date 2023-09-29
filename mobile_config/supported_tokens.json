@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Ultra Unicorn",
+        "symbol": "U2U",
+        "decimals": 18,
+        "address": "",
+        "logo": ""
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18,
+        "address": "0x",
+        "logo": ""
+    }
+]
