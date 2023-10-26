@@ -6,7 +6,7 @@
         "backgroundImg": "https://fakeimg.pl/300/ff0000,128/000,255",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "/a",
-        "filter": "trading"
+        "category": ["trading", "dex"]
     },
     {
         "description": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
@@ -15,7 +15,7 @@
         "backgroundImg": "https://fakeimg.pl/300/ff0000,128/000,255",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "/b",
-        "filter": "trading"
+        "category": ["trading", "gamefi"]
     },
     {
         "description": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
@@ -24,6 +24,6 @@
         "backgroundImg": "https://fakeimg.pl/300/ff0000,128/000,255",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "/c",
-        "filter": "dex"
+        "category": ["dex", "defi"]
     }
 ]
