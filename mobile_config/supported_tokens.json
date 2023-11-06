@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Ultra Unicorn",
+        "symbol": "U2U",
+        "decimals": 18,
+        "address": "0x",
+        "logo": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/public_assets/token_logos/u2u.svg"
+    },
+    {
+        "name": "Gold",
+        "symbol": "GLD",
+        "decimals": 18,
+        "address": "0x703c765f3d93FDAA96e49DA5932545aF37860B0E",
+        "logo": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/public_assets/token_logos/eth.svg"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "description": "U2U Staking",
+        "title": "U2U Staking",
+        "logoImg": "https://fakeimg.pl/300/",
+        "backgroundImg": "https://fakeimg.pl/300/ff0000,128/000,255",
+        "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
+        "url": "https://testnet-staking.uniultra.xyz/",
+        "category": ["staking"],
+        "featured": true,
+        "upcoming": false
+    }
+]
