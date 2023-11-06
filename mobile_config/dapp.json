@@ -1,12 +1,14 @@
 [
     {
-        "description": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
-        "title": "First Item",
+        "description": "U2U Staking",
+        "title": "U2U Staking",
         "logoImg": "https://fakeimg.pl/300/",
         "backgroundImg": "https://fakeimg.pl/300/ff0000,128/000,255",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
-        "url": "/a",
-        "category": ["trading", "dex"]
+        "url": "https://testnet-staking.uniultra.xyz/",
+        "category": ["staking"],
+        "featured": true,
+        "upcoming": false
     },
     {
         "description": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
@@ -15,7 +17,9 @@
         "backgroundImg": "https://fakeimg.pl/300/ff0000,128/000,255",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "/b",
-        "category": ["trading", "gamefi"]
+        "category": ["trading", "gamefi"],
+        "featured": true,
+        "upcoming": true
     },
     {
         "description": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
@@ -24,6 +28,8 @@
         "backgroundImg": "https://fakeimg.pl/300/ff0000,128/000,255",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "/c",
-        "category": ["dex", "defi"]
+        "category": ["dex", "defi"],
+        "featured": true,
+        "upcoming": true
     }
 ]
