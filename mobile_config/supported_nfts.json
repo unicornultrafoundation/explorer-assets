@@ -3,6 +3,7 @@
         "id": "0xb49054664518BAC9330295Fc66ED5726eaFCDB15",
         "name": "GameItem",
         "image": "https://etherscan.io/token/images/boredapeyc_32.png",
+        "banner": "https://i.seadn.io/gae/i5dYZRkVCUK97bfprQ3WXyrT9BnLSZtVKGJlKQ919uaUB0sxbngVCioaiyu9r6snqfi2aaTyIvv6DHm4m2R3y7hMajbsv14pSZK8mhs?auto=format&dpr=1&w=3840",
         "category": "Game",
         "graph": "https://subgraph.uniultra.xyz/subgraphs/name/u2u/nft-template"
     }
