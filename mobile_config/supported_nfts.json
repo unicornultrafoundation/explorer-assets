@@ -5,7 +5,8 @@
         "image": "https://etherscan.io/token/images/boredapeyc_32.png",
         "banner": "https://i.seadn.io/gae/i5dYZRkVCUK97bfprQ3WXyrT9BnLSZtVKGJlKQ919uaUB0sxbngVCioaiyu9r6snqfi2aaTyIvv6DHm4m2R3y7hMajbsv14pSZK8mhs?auto=format&dpr=1&w=3840",
         "category": "Game",
-        "graph": "https://subgraph.uniultra.xyz/subgraphs/name/u2u/nft-template"
+        "graph": "https://subgraph.uniultra.xyz/subgraphs/name/u2u/nft-template",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
         "id": "0xD66B26c743fc57985559DE7D1A85220190B4bbBd",
@@ -13,6 +14,7 @@
         "image": "https://etherscan.io/token/images/boredapeyc_32.png",
         "banner": "https://i.seadn.io/gae/i5dYZRkVCUK97bfprQ3WXyrT9BnLSZtVKGJlKQ919uaUB0sxbngVCioaiyu9r6snqfi2aaTyIvv6DHm4m2R3y7hMajbsv14pSZK8mhs?auto=format&dpr=1&w=3840",
         "category": "Membership",
-        "graph": "https://subgraph.uniultra.xyz/subgraphs/name/u2u/solar_adventure"
+        "graph": "https://subgraph.uniultra.xyz/subgraphs/name/u2u/solar_adventure",
+        "description": "Congratulations to all early supporters of Unicorn Ultra’s Adventure"
     }
 ]
