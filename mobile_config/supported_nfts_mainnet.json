@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "id": "0xC102BfEeE0674798Df49618E12b45FcD8e7C0EC0",
+        "name": "The Solar Adventure",
+        "image": "https://u2-adv-assets-dev.s3.ap-southeast-1.amazonaws.com/logo.png",
+        "banner": "https://u2-adv-assets-dev.s3.ap-southeast-1.amazonaws.com/banner.png",
+        "category": "Membership",
+        "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/solar_adventure",
+        "description": "Congratulations to all early supporters of Unicorn Ultra’s Adventure"
+    }
+]
