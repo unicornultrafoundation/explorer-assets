@@ -9,5 +9,25 @@
         "category": ["staking"],
         "featured": true,
         "upcoming": false
+    },
+    {
+        "description": "U2U Faucet",
+        "title": "U2U Faucet",
+        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/faucet_logo.png",
+        "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
+        "url": "https://faucet.uniultra.xyz/",
+        "category": ["faucet"],
+        "featured": false,
+        "upcoming": false
+    },
+    {
+        "description": "U2 Play",
+        "title": "U2 Play",
+        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2_play_logo.png",
+        "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
+        "url": "https://fe-dev.u2play.xyz/",
+        "category": ["game"],
+        "featured": false,
+        "upcoming": false
     }
 ]
