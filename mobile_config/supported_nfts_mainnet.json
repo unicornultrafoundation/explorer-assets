@@ -7,5 +7,14 @@
         "category": "Membership",
         "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/solar_adventure",
         "description": "Congratulations to all early supporters of Unicorn Ultra’s Adventure"
+    },
+    {
+        "id": "0x8D244EF3f66be3910cbb16Fc63b85C1d67B3F17F",
+        "name": "Career skills in Web3 Certification",
+        "image": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/web3-cert/avatar.jpg",
+        "banner": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/web3-cert/banner.jpg",
+        "category": "Certificate",
+        "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/web3_cert",
+        "description": "Career Skills in Web3 Certification is a collection of NFTs for students who have completed the course organized by U2U Venture Builder in conjunction with Hub Network. This course aims to provide students with a perspective view of the Web3 market to prepare for their future careers."
     }
 ]
