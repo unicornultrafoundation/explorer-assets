@@ -29,5 +29,16 @@
         "category": ["game"],
         "featured": false,
         "upcoming": false
+    },
+    {
+        "description": "U2UNFT Marketplace",
+        "title": "An U2UNFT marketplace is a digital platform for buying, selling, and trading unique digital assets, known as non-fungible tokens (NFTs), using blockchain technology for secure and transparent transactions. It serves as a hub for artists, collectors, and builder in any areas to interact and exchange these unique digital items, like art or collectibles, with authenticity guaranteed by blockchain verification.",
+        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_logo.png",
+        "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_banner.png",
+        "gradientColor": ["#5D96FF", "#8C66FF"],
+        "url": "https://nebulas.u2nft.io/",
+        "category": ["nft", "marketplace"],
+        "featured": false,
+        "upcoming": false
     }
 ]
