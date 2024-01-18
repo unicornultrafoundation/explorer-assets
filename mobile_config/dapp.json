@@ -1,5 +1,16 @@
 [
     {
+        "description": "An U2UNFT marketplace is a digital platform trading non-fungible tokens (NFTs).",
+        "title": "U2UNFT Marketplace",
+        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_logo.png",
+        "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_banner.png",
+        "gradientColor": ["#5D96FF", "#8C66FF"],
+        "url": "https://nebulas.u2nft.io/",
+        "category": ["nft", "marketplace"],
+        "featured": false,
+        "upcoming": false
+    },
+    {
         "description": "U2U Staking",
         "title": "U2U Staking",
         "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_avatar.png",
@@ -27,17 +38,6 @@
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "https://fe-dev.u2play.xyz/",
         "category": ["game"],
-        "featured": false,
-        "upcoming": false
-    },
-    {
-        "description": "U2UNFT Marketplace",
-        "title": "An U2UNFT marketplace is a digital platform trading non-fungible tokens (NFTs).",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_logo.png",
-        "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_banner.png",
-        "gradientColor": ["#5D96FF", "#8C66FF"],
-        "url": "https://nebulas.u2nft.io/",
-        "category": ["nft", "marketplace"],
         "featured": false,
         "upcoming": false
     }
