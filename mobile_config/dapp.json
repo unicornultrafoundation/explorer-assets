@@ -22,6 +22,17 @@
         "upcoming": false
     },
     {
+        "description": "U2U Voyage",
+        "title": "U2U Voyage",
+        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_avatar.png",
+        "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_banner.png",
+        "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
+        "url": "https://pr-only-test.u2nft.xyz/",
+        "category": ["nft"],
+        "featured": false,
+        "upcoming": false
+    },
+    {
         "description": "U2U Faucet",
         "title": "U2U Faucet",
         "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/faucet_logo.png",
