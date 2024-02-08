@@ -1,5 +1,27 @@
 [
     {
+        "description": "The participants navigate challenges to collect 5 mystical NFTs to discover the Oracle Treasure.",
+        "title": "Odyssean Voyage",
+        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/voyage-icon.png",
+        "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/voyage-banner.png",
+        "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
+        "url": "https://voyage.u2nft.io/",
+        "category": ["nft"],
+        "featured": false,
+        "upcoming": false
+    },
+    {
+        "description": "An U2UNFT marketplace is a digital platform trading non-fungible tokens (NFTs).",
+        "title": "U2UNFT Marketplace",
+        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_logo.png",
+        "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_banner.png",
+        "gradientColor": ["#5D96FF", "#8C66FF"],
+        "url": "https://nebulas.u2nft.io/",
+        "category": ["nft", "marketplace"],
+        "featured": false,
+        "upcoming": false
+    },
+    {
         "description": "U2U Staking",
         "title": "U2U Staking",
         "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_avatar.png",

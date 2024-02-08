@@ -1,3 +1,4 @@
 {
-    "versionInReview": "1.9"
+    "versionInReview": "1.20",
+    "allowClaimMembership": true
 }

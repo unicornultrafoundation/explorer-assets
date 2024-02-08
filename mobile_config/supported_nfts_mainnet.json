@@ -7,5 +7,50 @@
         "category": "Membership",
         "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/solar_adventure",
         "description": "Congratulations to all early supporters of Unicorn Ultra’s Adventure"
+    },
+    {
+        "id": "0x8D244EF3f66be3910cbb16Fc63b85C1d67B3F17F",
+        "name": "Career skills in Web3 Certification",
+        "image": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/web3-cert/avatar.jpg",
+        "banner": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/web3-cert/banner.jpg",
+        "category": "Certificate",
+        "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/web3_cert",
+        "description": "Career Skills in Web3 Certification is a collection of NFTs for students who have completed the course organized by U2U Venture Builder in conjunction with Hub Network. This course aims to provide students with a perspective view of the Web3 market to prepare for their future careers."
+    },
+    {
+        "id": "0x4d2A3DC055ee92929c83895D4F191075Fe9bF612",
+        "name": "Indigo Leviathan",
+        "image": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/avata-indigo-leviathan.jpg",
+        "banner": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/banner-indigo-leviathan.jpg",
+        "category": "Collection",
+        "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/indigo_leviathan",
+        "description": "Indigo Leviathan symbolizes power and hidden potential."
+    },
+    {
+        "id": "0x60F46f868fca56F1a263BB629C98b1DBf0F6F145",
+        "name": "Ivory Wyrm",
+        "image": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/avata-ivory-wyrm.jpg",
+        "banner": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/banner-ivory-wyrm.jpg",
+        "category": "Collection",
+        "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/ivory_wyrm",
+        "description": "Ivory Wyrm represents the strength of knowledge and expertise in all fields."
+    },
+    {
+        "id": "0x847146D02f463cF269c87aC957255267392E90cd",
+        "name": "Olive Skysoarer",
+        "image": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/avata-olive-skysoarer.jpg",
+        "banner": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/banner-olive-skysoarer.jpg",
+        "category": "Collection",
+        "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/olive_skysoarer",
+        "description": "Olive Skysoarer symbolizes freedom and peace."
+    },
+    {
+        "id": "0x3F797f942Db1469bA238EBA67857a2da02EF058D",
+        "name": "Garnet Drake",
+        "image": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/avatar-garnet-drake.jpg",
+        "banner": "https://u2-adv-assets.s3.ap-southeast-1.amazonaws.com/banner-garnet-drake.jpg",
+        "category": "Collection",
+        "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/garnet_drake",
+        "description": "Garnet Drake represents the desire to master knowledge, explore, and learn new aspects of human understanding."
     }
 ]
