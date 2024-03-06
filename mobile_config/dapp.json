@@ -1,5 +1,16 @@
 [
     {
+        "description": "U2Coffee NFT.",
+        "title": "U2Coffee NFT",
+        "logoImg": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/hdw/nft/collection/u2coffee.png",
+        "backgroundImg": "",
+        "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
+        "url": "https://u2cf36.u2nft.io/",
+        "category": ["nft"],
+        "featured": false,
+        "upcoming": false
+    },
+    {
         "description": "The participants navigate challenges to collect 5 mystical NFTs to discover the Oracle Treasure.",
         "title": "Odyssean Voyage",
         "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/voyage-icon.png",
