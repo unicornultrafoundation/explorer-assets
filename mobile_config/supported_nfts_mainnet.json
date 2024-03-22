@@ -52,5 +52,15 @@
         "category": "Collection",
         "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/garnet_drake",
         "description": "Garnet Drake represents the desire to master knowledge, explore, and learn new aspects of human understanding."
+    },
+    {
+        "id": "0xda125aec64761868e38a1FE228cf3c4263218c39",
+        "name": "Unicerans",
+        "image": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/uniceran_logo.png",
+        "banner": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/uniceran_banner.png",
+        "category": "Collection",
+        "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/nft-uniceran",
+        "description": "Ascend the Rarity Ladder: Unicorn Ultra's NFTs - Where Uniceran Sparkles in Amber, Sapphire, Emerald, and Green Glory!",
+        "is1155": true
     }
 ]
