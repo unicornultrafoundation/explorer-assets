@@ -1,5 +1,16 @@
 [
     {
+        "description": "U2Quest.",
+        "title": "U2Quest",
+        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2quest.jpg",
+        "backgroundImg": "",
+        "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
+        "url": "https://u2quest.io/",
+        "category": ["amm", "dex"],
+        "featured": false,
+        "upcoming": false
+    },
+    {
         "description": "GroFi Dex.",
         "title": "GroFi Dex",
         "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/grofidex.png",
@@ -44,8 +55,8 @@
         "upcoming": false
     },
     {
-        "description": "U2U Staking",
-        "title": "U2U Staking",
+        "description": "U2 Staking",
+        "title": "U2 Staking",
         "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_avatar.png",
         "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_banner.png",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
