@@ -49,7 +49,7 @@
         "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_logo.png",
         "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_banner.png",
         "gradientColor": ["#5D96FF", "#8C66FF"],
-        "url": "https://nebulas.u2nft.io/",
+        "url": "https://testnet.x721.io/",
         "category": ["nft", "marketplace"],
         "featured": false,
         "upcoming": false
