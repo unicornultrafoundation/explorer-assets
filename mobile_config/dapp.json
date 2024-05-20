@@ -80,7 +80,7 @@
         "title": "U2 Play",
         "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2_play_logo.png",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
-        "url": "https://blockfun.io/",
+        "url": "https://testnet.blockfun.io/",
         "category": ["game"],
         "featured": false,
         "upcoming": false
