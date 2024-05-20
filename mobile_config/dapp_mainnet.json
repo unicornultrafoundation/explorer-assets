@@ -5,7 +5,7 @@
         "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_avatar.png",
         "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_banner.png",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
-        "url": "https://staking.uniultra.xyz/",
+        "url": "https://staking.u2u.xyz/",
         "category": ["staking"],
         "featured": true,
         "upcoming": false
