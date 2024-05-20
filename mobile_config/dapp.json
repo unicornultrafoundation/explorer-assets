@@ -76,9 +76,9 @@
         "upcoming": false
     },
     {
-        "description": "U2 Play",
-        "title": "U2 Play",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2_play_logo.png",
+        "description": "Blockfun",
+        "title": "Blockfun",
+        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/BlockFun.png",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "https://testnet.blockfun.io/",
         "category": ["game"],
