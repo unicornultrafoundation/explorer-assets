@@ -19,11 +19,72 @@
     },
     {
         "id": "0x34AdaCBbb61AB0345094fFdFe2a6a737530BF155",
-        "name": "The Solar Adventure",
+        "name": "The Solar Adventure 1.0",
         "image": "https://u2-adv-assets-dev.s3.ap-southeast-1.amazonaws.com/logo.png",
         "banner": "https://u2-adv-assets-dev.s3.ap-southeast-1.amazonaws.com/banner.png",
         "category": "Membership",
         "graph": "https://subgraph.uniultra.xyz/subgraphs/name/u2u/solar_adventure",
         "description": "Congratulations to all early supporters of Unicorn Ultra’s Adventure"
+    },
+    {
+        "isGroup": true,
+        "name": "The Solar Adventure 2.0",
+        "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/Astronault.png",
+        "collections": [
+            {
+                "id": "0x3cEe84D0fe1451D08DC5a1badBde0C1a04ee9A1d",
+                "name": "Mars",
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/Mars.png",
+                "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/banner.png",
+                "category": "Collection",
+                "graph": "https://graph-jsonrpc-testnet.uniultra.xyz/subgraphs/name/u2u/the-solar-adventure/mars",
+                "description": "Mars"
+            },
+            {
+                "id": "0x941909270006Dd7274080Bf12EAA1fbD5FaeE3D6",
+                "name": "Venus",
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/Venus.png",
+                "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/banner.png",
+                "category": "Collection",
+                "graph": "https://graph-jsonrpc-testnet.uniultra.xyz/subgraphs/name/u2u/the-solar-adventure/venus",
+                "description": "Venus"
+            },
+            {
+                "id": "0x485ff0d84B747Ce4226c52deb12E872d2F0486ec",
+                "name": "Neptune",
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/Neptune.png",
+                "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/banner.png",
+                "category": "Collection",
+                "graph": "https://graph-jsonrpc-testnet.uniultra.xyz/subgraphs/name/u2u/the-solar-adventure/nep",
+                "description": "Neptune"
+            },
+            {
+                "id": "0xDE61B885f9BDe6C46dC62Abb263eaF6CE11F46dc",
+                "name": "Uranus",
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/Uranus.png",
+                "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/banner.png",
+                "category": "Collection",
+                "graph": "https://graph-jsonrpc-testnet.uniultra.xyz/subgraphs/name/u2u/the-solar-adventure/uranus",
+                "description": "Uranus"
+            },
+            {
+                "id": "0xA4Ab9153f48d3205eFDC2BaBe44fa9023233b9FE",
+                "name": "Earth",
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/Earth.png",
+                "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/banner.png",
+                "category": "Collection",
+                "graph": "https://graph-jsonrpc-testnet.uniultra.xyz/subgraphs/name/u2u/the-solar-adventure/earth",
+                "description": "Earth"
+            },
+            {
+                "id": "0x0091bd12166d29539db6bb37fb79670779abf266",
+                "name": "Mercury",
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/Mercury.png",
+                "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/banner.png",
+                "category": "Collection",
+                "graph": "https://graph-jsonrpc-testnet.uniultra.xyz/subgraphs/name/u2u/the-solar-adventure/mecury",
+                "description": "Earth"
+            }
+        ]
     }
 ]

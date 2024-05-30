@@ -1,7 +1,7 @@
 [
     {
         "id": "0xC102BfEeE0674798Df49618E12b45FcD8e7C0EC0",
-        "name": "The Solar Adventure",
+        "name": "The Solar Adventure 1.0",
         "image": "https://u2-adv-assets-dev.s3.ap-southeast-1.amazonaws.com/logo.png",
         "banner": "https://u2-adv-assets-dev.s3.ap-southeast-1.amazonaws.com/banner.png",
         "category": "Membership",
@@ -56,8 +56,8 @@
     {
         "id": "0xda125aec64761868e38a1FE228cf3c4263218c39",
         "name": "Unicerans",
-        "image": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/uniceran_logo.png",
-        "banner": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/uniceran_banner.png",
+        "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/uniceran_logo.png",
+        "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/uniceran_banner.png",
         "category": "Collection",
         "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/nft-uniceran",
         "description": "Ascend the Rarity Ladder: Unicorn Ultra's NFTs - Where Uniceran Sparkles in Amber, Sapphire, Emerald, and Green Glory!",
