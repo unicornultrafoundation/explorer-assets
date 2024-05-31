@@ -29,7 +29,7 @@
     {
         "isGroup": true,
         "name": "The Solar Adventure 2.0",
-        "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/Astronault.png",
+        "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/tsa/tsa2.png",
         "collections": [
             {
                 "id": "0x3cEe84D0fe1451D08DC5a1badBde0C1a04ee9A1d",
