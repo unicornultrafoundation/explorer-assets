@@ -62,5 +62,21 @@
         "graph": "https://graph.uniultra.xyz/subgraphs/name/u2u/nft-uniceran",
         "description": "Ascend the Rarity Ladder: Unicorn Ultra's NFTs - Where Uniceran Sparkles in Amber, Sapphire, Emerald, and Green Glory!",
         "is1155": true
+    },
+    {
+        "isGroup": true,
+        "name": "Money Falling",
+        "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/moneyfalling_logo.png",
+        "collections": [
+            {
+                "id": "0xbB9B8838621027D4b6a9D38714f47FE0B5E7E967",
+                "name": "Airdrop Boommax U2V (U2VAB)",
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/boommax_logo.png",
+                "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/boommax_banner.png",
+                "category": "Collection",
+                "graph": "https://graph-jsonrpc.uniultra.xyz/subgraphs/name/airdrop/boommax/u2v",
+                "description": "Airdrop Boommax U2V (U2VAB)"
+            }
+        ]
     }
 ]
