@@ -76,6 +76,15 @@
                 "category": "Collection",
                 "graph": "https://graph-jsonrpc.uniultra.xyz/subgraphs/name/airdrop/boommax/u2v",
                 "description": "Airdrop Boommax U2V (U2VAB)"
+            },
+            {
+                "id": "0xC5877678e3423E44D350d67e11367B6C65e166D8",
+                "name": "Airdrop Spinel U2V (U2VAS)",
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/spinel_logo.png",
+                "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/spinel_banner.png",
+                "category": "Collection",
+                "graph": "https://graph-jsonrpc.uniultra.xyz/subgraphs/name/u2u/airdrop-spinel-u2v",
+                "description": "Airdrop Spinel U2V (U2VAS)"
             }
         ]
     }
