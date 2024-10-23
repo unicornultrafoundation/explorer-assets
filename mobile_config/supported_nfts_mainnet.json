@@ -87,5 +87,14 @@
                 "description": "Airdrop Spinel U2V (U2VAS)"
             }
         ]
+    },
+    {
+        "id": "0xda125aec64761868e38a1FE228cf3c4263218c39",
+        "name": "[UG x SPINEL] Premium PASS",
+        "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/ug_x_spinel_logo.png",
+        "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/ug_x_spinel_banner.png",
+        "category": "Collection",
+        "graph": "https://graph-jsonrpc.uniultra.xyz/subgraphs/name/u2u/ug-spinel",
+        "description": "[UG x SPINEL] Premium PASS"
     }
 ]
