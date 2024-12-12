@@ -1,4 +1,5 @@
 {
     "versionInReview": "1.40",
-    "allowClaimMembership": false
+    "allowClaimMembership": false,
+    "minLockupDuration": 14
 }
