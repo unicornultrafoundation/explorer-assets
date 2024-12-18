@@ -4,13 +4,13 @@
         "symbol": "U2U",
         "decimals": 18,
         "address": "0x",
-        "logo": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/public_assets/token_logos/u2u.svg"
+        "logo": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/public_assets/token_logos/u2u.svg"
     },
     {
         "name": "U2DPNToken",
         "symbol": "U2DPN",
         "decimals": 18,
         "address": "0xfB506cf68E21013532ff37AE746B274186088A35",
-        "logo": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/public_assets/token_logos/u2dpn.svg"
+        "logo": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/public_assets/token_logos/u2dpn.svg"
     }
 ]
