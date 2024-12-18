@@ -1,5 +1,6 @@
 {
     "versionInReview": "1.42",
     "allowClaimMembership": false,
-    "minLockupDuration": 14
+    "minLockupDuration": 14,
+    "withdrawPeriodTime": 604800
 }
