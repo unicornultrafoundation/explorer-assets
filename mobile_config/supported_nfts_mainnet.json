@@ -96,5 +96,13 @@
         "category": "Collection",
         "graph": "https://graph-jsonrpc.uniultra.xyz/subgraphs/name/u2u/ug-spinel",
         "description": "[UG x SPINEL] Premium PASS"
+    },
+    {
+        "id": "0x54514d2903923Cb6Dc93CD26d7C701865230c4A9",
+        "name": "Uphone NFT",
+        "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/u2phone_logo.png",
+        "banner": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/u2phone_banner.png",
+        "category": "Certificate",
+        "graph": "https://graph-02.u2u.xyz/subgraphs/name/u2u/uphone-nft"
     }
 ]
