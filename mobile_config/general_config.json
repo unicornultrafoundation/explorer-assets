@@ -2,5 +2,69 @@
     "versionInReview": "1.45.1",
     "allowClaimMembership": false,
     "minLockupDuration": 14,
-    "withdrawPeriodTime": 604800
+    "withdrawPeriodTime": 604800,
+    "bannerConfig": {
+        "en": [
+            {
+                "type": "AppViewStep",
+                "title": "U2U Foundation",
+                "content": "Join U2U Foundation with Dapp: Explore to earn!",
+                "buttonText": "Explore now",
+                "screen": "EcosystemStack",
+                "screenParams": { "screen": "U2UEcoDashboard" },
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/banner/ecosystem_illus.png",
+                "network": [39, 2484]
+            },
+            {
+                "type": "AppViewStep",
+                "title": "U2U Staking",
+                "content": "Stake U2U now to earn up with an attractive APR",
+                "buttonText": "Stake now",
+                "screen": "StakingStack",
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/banner/staking_illus.png",
+                "network": [39, 2484]
+            },
+            {
+                "type": "AppViewStep",
+                "title": "U2U News",
+                "content": "Enjoy free transactions with Nebulas Testnet",
+                "buttonText": "Visit now",
+                "screen": "DiscoverStack",
+                "screenParams": { "screen": "Home" },
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/banner/discover_illus.png",
+                "network": [2484]
+            }
+        ],
+        "vi": [
+            {
+                "type": "AppViewStep",
+                "title": "Quỹ U2U Foundation",
+                "content": "Tham gia U2U Foundation với Dapp: Khám phá để kiếm!",
+                "buttonText": "Khám phá ngay",
+                "screen": "EcosystemStack",
+                "screenParams": { "screen": "U2UEcoDashboard" },
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/banner/ecosystem_illus.png",
+                "network": [39, 2484]
+            },
+            {
+                "type": "AppViewStep",
+                "title": "Uỷ quyền U2U",
+                "content": "Uỷ quyền U2U ngay bây giờ để nhận thưởng với APR hấp dẫn",
+                "buttonText": "Uỷ quyền ngay",
+                "screen": "StakingStack",
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/banner/staking_illus.png",
+                "network": [39, 2484]
+            },
+            {
+                "type": "AppViewStep",
+                "title": "Tin tức U2U",
+                "content": "Tận hưởng giao dịch miễn phí với Nebulas Testnet",
+                "buttonText": "Truy cập ngay",
+                "screen": "DiscoverStack",
+                "screenParams": { "screen": "Home" },
+                "image": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/banner/discover_illus.png",
+                "network": [2484]
+            }
+        ]
+    }
 }
