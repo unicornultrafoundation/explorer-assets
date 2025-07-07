@@ -2,8 +2,8 @@
     {
         "description": "U2U Staking",
         "title": "U2U Staking",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_avatar.png",
-        "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_banner.png",
+        "logoImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/staking_avatar.png",
+        "backgroundImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/staking_banner.png",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "https://staking.u2u.xyz/",
         "category": ["staking"],
@@ -13,7 +13,7 @@
     {
         "description": "GroFi Dex is a one-stop-shop for Defi in U2U ecosystem.",
         "title": "GroFi Dex",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/grofidex.png",
+        "logoImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/grofidex.png",
         "backgroundImg": "",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "https://grofidex.io/",

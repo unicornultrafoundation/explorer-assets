@@ -2,7 +2,7 @@
     {
         "description": "U2Quest.",
         "title": "U2Quest",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2quest.jpg",
+        "logoImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/u2quest.jpg",
         "backgroundImg": "",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "https://u2quest.io/",
@@ -13,7 +13,7 @@
     {
         "description": "GroFi Dex.",
         "title": "GroFi Dex",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/grofidex.png",
+        "logoImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/grofidex.png",
         "backgroundImg": "",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "https://testnet.grofidex.io/",
@@ -35,8 +35,8 @@
     {
         "description": "The participants navigate challenges to collect 5 mystical NFTs to discover the Oracle Treasure.",
         "title": "Odyssean Voyage",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/voyage-icon.png",
-        "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/voyage-banner.png",
+        "logoImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/voyage-icon.png",
+        "backgroundImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/voyage-banner.png",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "https://voyage.u2nft.io/",
         "category": ["nft"],
@@ -46,8 +46,8 @@
     {
         "description": "X721 Marketplace is a digital platform trading non-fungible tokens (NFTs).",
         "title": "X721 Marketplace",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_logo.png",
-        "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/u2nft_banner.png",
+        "logoImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/u2nft_logo.png",
+        "backgroundImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/u2nft_banner.png",
         "gradientColor": ["#5D96FF", "#8C66FF"],
         "url": "https://testnet.x721.io/",
         "category": ["nft", "marketplace"],
@@ -57,8 +57,8 @@
     {
         "description": "U2 Staking",
         "title": "U2 Staking",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_avatar.png",
-        "backgroundImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/staking_banner.png",
+        "logoImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/staking_avatar.png",
+        "backgroundImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/staking_banner.png",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "https://testnet-staking.uniultra.xyz/",
         "category": ["staking"],
@@ -68,7 +68,7 @@
     {
         "description": "U2U Faucet",
         "title": "U2U Faucet",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/faucet_logo.png",
+        "logoImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/faucet_logo.png",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "https://faucet.uniultra.xyz/",
         "category": ["faucet"],
@@ -78,7 +78,7 @@
     {
         "description": "Blockfun",
         "title": "Blockfun",
-        "logoImg": "https://raw.githubusercontent.com/phongnhat19/explorer-assets/master/mobile_config/images/BlockFun.png",
+        "logoImg": "https://raw.githubusercontent.com/unicornultrafoundation/explorer-assets/master/mobile_config/images/BlockFun.png",
         "gradientColor": ["#4c669f", "#3b5998", "#192f6a"],
         "url": "https://testnet.blockfun.io/",
         "category": ["game"],
